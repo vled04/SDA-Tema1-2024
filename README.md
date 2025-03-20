@@ -1,4 +1,4 @@
-Tema1 2024 SDA
+				Tema1 2024 SDA
 
 Tema propusă presupune implementarea unui sistem care simulează un trenuleț cu vagoane, folosind o structură de date de tip listă dublu înlănțuită circulară. Fiecare vagon al trenului poate fi inscripționat cu un caracter și mecanicul se poate deplasa între vagoane, modificând sau interacționând cu vagoanele pe care le întâlnește. Mai exact, se dorește modelarea unui trenuleț cu posibilități de mișcare a mecanicului și de manipulare a vagoanelor în diverse moduri.
 
